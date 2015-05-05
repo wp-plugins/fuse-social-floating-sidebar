@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allows you to add social media icons which can be connected with your social media profiles.
+This plugin allows you to add social media floating sidebar icons which can be connected with your social media profiles.
 
 == Description ==
 
@@ -29,29 +29,27 @@ You can check live demo
 
 <strong>Its all depends on users choice that either he wants animation/round/sqaure or with any <em>combinations he needs.</em></strong>
 
-This plugin comes with Shortcode which can be use any where in your website :
- <br />
-You can also use this plugins as animated social icons.This plugin also come with widget, so you can also put widget in sidebar or in footer or any where from widget menu. <br />
-Its simple,unique and best WordPress plugin for social icons.
+You can also use this plugins as animated social icons. <br />
+Its simple,unique and best WordPress plugin for floating social icons.
 Fuse Social Floating Sidebar allow you to add following social icons in your website  <br /> 
-* Facebook <br />
-* Twitter <br />
-* RSS<br />
-* YouTube<br />
-* LinkedIn<br />
-* Flickr<br />
-* Pinterest<br />
-* StumbleUpon<br />
-* Google Plus<br />
-* Instagram <br />
-* Tumblr <br />
-* Vine <br />
-* SoundCloud <br />
-* VK <br />
-* Reddit <br />
-* Stack OverFlow <br />
-* Behance <br />
-* Github <br />
+* Facebook 
+* Twitter 
+* RSS
+* YouTube 
+* LinkedIn 
+* Flickr
+* Pinterest
+* StumbleUpon
+* Google Plus
+* Instagram 
+* Tumblr
+* Vine 
+* SoundCloud 
+* VK
+* Reddit 
+* Stack OverFlow
+* Behance 
+* Github 
 
 
 == Installation ==
