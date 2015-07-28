@@ -146,6 +146,11 @@ class Making_Fuse_Icons
 												$github = $options['github'];
 												echo "<a $target class='fuse_social_icons_links' href='$github'>	<i class='fa fa-github github-awesome-social awesome-social'></i></a><br />";
 										}
+								         if ($options['envelope'])
+										{
+												$envelope = $options['envelope'];
+												echo "<a $target class='fuse_social_icons_links' href='$envelope'>	<i class='fa fa-envelope envelope-awesome-social awesome-social'></i></a><br />";
+										}
                     echo "</div>";
                             
                     

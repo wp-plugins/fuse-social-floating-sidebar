@@ -797,7 +797,24 @@ function awesome_color_picker( $hook ) {
 				</td>
 
 				</tr>
-                                
+                 <tr>
+
+					<td>
+
+						<hr />
+
+						
+
+									<i class="fa fa-envelope-o"></i><label for="fuse_social_options[envelope]" > Email</label><br /><input  id="fuse_social_options[envelope]" value="<?php
+
+							esc_attr_e($options['envelope']);
+
+			?>" name="fuse_social_options[envelope]" type="text" placeholder="mailto:someone@example.com" />
+
+						
+
+				</td>
+                 </tr>     
                                 
 			</table>		
 

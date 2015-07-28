@@ -188,6 +188,9 @@ z-index: 99999;
                 
                 
                 }
+                .envelope-awesome-social{
+                  background: #ccc ;	
+                }
 /*  Mobile */
 
 <?php
