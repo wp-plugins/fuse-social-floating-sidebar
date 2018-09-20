@@ -194,7 +194,7 @@ z-index: 99999;
 /*  Mobile */
 
 <?php
-if($options['mobile'] == 1)
+if(isset($options['mobile']) && $options['mobile'] == 1)
 {
 if ( wp_is_mobile() ) {
 
@@ -223,7 +223,7 @@ if($options['colorpicker'])
 }
                 ?>
              <?php
-                    if($options['hover']==1)
+                    if(isset($options['hover']) && $options['hover']==1)
                 {
                     ?>
              .awesome-social{
